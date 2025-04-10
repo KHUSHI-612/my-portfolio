@@ -1,0 +1,26 @@
+[
+    {
+      "organisation": "Newton School Of Technology",
+      "startDate": "Aug, 2024",
+      "endDate": "Present",
+      "class": ["Bachelor of Technology"]
+     
+    },
+    {
+      "organisation": "Apex International school,Jaipur",
+      "startDate": "Aug, 2022",
+      "endDate": "May, 2023",
+      "class": ["Intermediate (Class XII)"]
+      
+    },
+    {
+   
+      "organisation": "Don Bosco public school",
+      "startDate": "Aug, 2020",
+      "endDate": "Aug, 2021",
+      "class": [
+        "Matriculation (Class X)"
+      ]
+      
+    }
+  ]

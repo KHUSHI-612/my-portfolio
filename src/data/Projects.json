@@ -1,0 +1,19 @@
+[
+    {
+      "title": "ROCK PAPER SCISSOR",
+      "image": "rps",
+      "description": "Game featuring interactive UI and dynamic gameplay.",
+      "skills": ["javascript","html","css"],
+      "demo": "https://khushi-612.github.io/Rock_Paper_Scissor/",
+      "source": "https://github.com/KHUSHI-612/Rock_Paper_Scissor"
+    },
+    {
+      "title": "MEMORY GAME",
+      "image": "memorycard",
+      "description": "Interactive memory game with engaging UI and smooth gameplay.",
+      "skills": ["javascript","html","css"],
+      "demo": "https://khushi-612.github.io/memory-game/",
+      "source": "https://github.com/KHUSHI-612/memory-game"
+    }
+   
+  ]
