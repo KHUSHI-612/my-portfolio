@@ -2,7 +2,7 @@ import React from 'react';
 import styles from "./Contact.module.css";
 import email from "../../../assets/contact/emailIcon.png";
 import github from "../../../assets/contact/githubIcon.png";
-import ln from "../../../assets/contact/LinkedinIcon.png";
+import ln from "../../../assets/contact/linkedinIcon.png";
 
 export const Contact = () => {
   return (
